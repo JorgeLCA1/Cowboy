@@ -44,6 +44,5 @@ Desafíos y Consideraciones:
 AWS
 [![asciicast](https://asciinema.org/a/aXdJui48KoHXL9fkV8CVL7kAK.svg)](https://asciinema.org/a/aXdJui48KoHXL9fkV8CVL7kAK)
 CURL
-[![asciicast](https://asciinema.org/a/aXdJui48KoHXL9fkV8CVL7kAK.svg)](https://asciinema.org/a/aXdJui48KoHXL9fkV8CVL7kAK)
-
+[![asciicast](https://asciinema.org/a/gT0Ho4AkzkpPouWnOjRfzYNCn.svg)](https://asciinema.org/a/gT0Ho4AkzkpPouWnOjRfzYNCn)
 ![captura](https://github.com/user-attachments/assets/8825ed8a-4e21-4e1a-98e1-99c88b3dacbf)
