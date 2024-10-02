@@ -41,8 +41,8 @@ Desafíos y Consideraciones:
     Tolerancia a fallos de Erlang en aplicaciones con Cowboy:
     Erlang permite construir aplicaciones tolerantes a fallos mediante supervisores que reinician procesos fallidos, lo que garantiza alta disponibilidad y resiliencia en sistemas distribuidos con Cowboy.
 ## ASCIINEMA
-AWS
+### AWS
 [![asciicast](https://asciinema.org/a/aXdJui48KoHXL9fkV8CVL7kAK.svg)](https://asciinema.org/a/aXdJui48KoHXL9fkV8CVL7kAK)
-CURL
+### CURL
 [![asciicast](https://asciinema.org/a/gT0Ho4AkzkpPouWnOjRfzYNCn.svg)](https://asciinema.org/a/gT0Ho4AkzkpPouWnOjRfzYNCn)
 ![captura](https://github.com/user-attachments/assets/8825ed8a-4e21-4e1a-98e1-99c88b3dacbf)
